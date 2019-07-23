@@ -5,4 +5,4 @@ thermal diffusivity (d), rod length (xmax), the length step (dx), time (tmax) an
 # Analytical solution
 This solution is obtained from the following equation: ![Alt text](img/main.png?raw=true), where ![Alt text](img/ck.png?raw=true)
 
-However, the solution is only accurate for the value of the rod length L=25 due to the c<sub>k</sub> coefficients being pre-calculated
+However, the solution is only accurate for the value of the rod length L=25 due to the c<sub>k</sub> coefficients being pre-calculated.
